@@ -1,0 +1,2 @@
+webpackJsonp([6],{vqzQ:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var i={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("Haixian")])},staticRenderFns:[]},a=t("VU/8")({name:"haixian"},i,!1,null,null,null);n.default=a.exports}});
+//# sourceMappingURL=6.b9fa2f062a53bcabc9a4.js.map

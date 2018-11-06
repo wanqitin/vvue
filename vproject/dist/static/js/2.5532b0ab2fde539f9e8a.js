@@ -1,0 +1,2 @@
+webpackJsonp([2],{yOvn:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("mine")])},staticRenderFns:[]},i=t("VU/8")({name:"mine"},r,!1,null,null,null);n.default=i.exports}});
+//# sourceMappingURL=2.5532b0ab2fde539f9e8a.js.map
